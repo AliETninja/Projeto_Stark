@@ -15,8 +15,6 @@ Antes de executar este código, você precisará das seguintes ferramentas:
 
 ° Stark Bank SDK
 
-# Configuração
-
 # Instalação
 
 Para instalar as dependências do projeto, execute o seguinte comando no terminal:
@@ -24,6 +22,7 @@ Para instalar as dependências do projeto, execute o seguinte comando no termina
 ```bash
 pip install -r requirements.txt
 ```
+# Configuração
 
 Acesse a pasta
 
