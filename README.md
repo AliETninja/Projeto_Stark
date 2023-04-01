@@ -7,7 +7,7 @@ Este repositório contém um exemplo de código em Flask para integração com a
 # Pré-requisitos
 Antes de executar este código, você precisará das seguintes ferramentas:
 
-° Python 3.x
+° Python 3.xx
 
 ° Flask
 
