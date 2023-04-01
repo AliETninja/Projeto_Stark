@@ -17,6 +17,14 @@ Antes de executar este código, você precisará das seguintes ferramentas:
 
 # Configuração
 
+# Instalação
+
+Para instalar as dependências do projeto, execute o seguinte comando no terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
 Acesse a pasta
 
 `settings`
@@ -32,14 +40,6 @@ python create_keys.py
 Esse comando irá criar um par de chaves "private-key.perm" e "public-key.perm", com essas chaves em mãos voce ja consegue configuar e interagir com o seu projeto criado no site da Starkbank
 
 Antes de executar o código, você precisará configurar algumas informações no arquivo `project_config.py`. Insira ID do seu projeto da Stark Bank na variável `PROJECT_ID`.
-
-# Instalação
-
-Depois de realizar as configurações acima, Para instalar as dependências do projeto, execute o seguinte comando no terminal:
-
-```bash
-pip install -r requirements.txt
-```
 
 # Configuração do Webhook
 Para receber notificações de crédito, é necessário que o webhook esteja configurado para um endpoint externo acessível na Internet. No entanto, executar o servidor Flask localmente não permitirá que o webhook receba notificações.
