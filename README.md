@@ -64,7 +64,7 @@ Agora, o webhook estará configurado para receber notificações de crédito no 
 
 
 # Execução
-Para executar o código, execute o seguinte comando no terminal:
+Agora ja fora da pasta `settings`. Para executar o código, execute o seguinte comando no terminal:
 
 ```bash
 python main.py
