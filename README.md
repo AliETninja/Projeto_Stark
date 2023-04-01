@@ -67,7 +67,7 @@ Agora, o webhook estará configurado para receber notificações de crédito no 
 Para executar o código, execute o seguinte comando no terminal:
 
 ```bash
-python app.py
+python main.py
 ```
 Este comando iniciará o servidor Flask e agendará a criação de faturas a cada 3 horas. O webhook será configurado para receber notificações de crédito, e disparar
 a transação, como instruido no desafio
