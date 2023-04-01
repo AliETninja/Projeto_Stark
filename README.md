@@ -85,3 +85,7 @@ O código tem as seguintes funcionalidades:
 
 
 O arquivo `generator.py` contém as definições das classes para gerar as faturas, transferências e dados dos clientes.
+
+# Clound
+
+Neste momento, há uma instância do mesmo código sendo executado na nuvem, hospedado pela plataforma Heroku. A aplicação tem a capacidade de receber, enviar e criar invoices e transações.
