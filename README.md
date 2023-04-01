@@ -31,7 +31,7 @@ python create_keys.py
 
 Esse comando irá criar um par de chaves "private-key.perm" e "public-key.perm", com essas chaves em mãos voce ja consegue configuar e interagir com o seu projeto criado no site da Starkbank
 
-Antes de executar o código, você precisará configurar algumas informações no arquivo `project_config.py`. Insira o projeto ID da sua conta do Stark Bank na variável `PROJECT_ID`.
+Antes de executar o código, você precisará configurar algumas informações no arquivo `project_config.py`. Insira ID do seu projeto da Stark Bank na variável `PROJECT_ID`.
 
 # Instalação
 
